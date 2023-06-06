@@ -1,7 +1,7 @@
 ---
 title: Juliette Boubel, Piano
 ---
-![Juliette Boubel, assise derrière un piano ouvert. Son image se reflète dans le dessous du couvercle](https://github.com/siBearNetic/test-website-repo-3796/blob/main/images/jboubel1%20-%20copie.jpg)
+! [Juliette Boubel, assise derrière un piano ouvert. Son image se reflète dans le dessous du couvercle](https://github.com/siBearNetic/test-website-repo-3796/blob/main/images/jboubel1%20-%20copie.jpg)
 
 Après une médaille d'or au conservatoire de Nancy puis un premier prix supérieur inter-régional à Luxembourg, elle intègre le CRR de Paris dans la classe de Dominique Geoffroy et Hugues Leclère. Elle en sort avec un premier prix à l'unanimité avec les félicitations du jury en en 1997, puis un prix d'excellence en 2000. Elle a par ailleurs reçu le premier prix à l'unanimité au concours Claude KAHN. 
 
